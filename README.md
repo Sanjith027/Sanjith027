@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjith027/Sanjith027/main/title.png" alt="Sanjith - DevOps Engineer" width="400"/>
+  <img src="https://raw.githubusercontent.com/Sanjith027/Sanjith027/main/title.png" alt="Sanjith - DevOps Engineer" width="700"/>
 </p>
 
 <p align="center">
