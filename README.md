@@ -1,15 +1,18 @@
-<h1 align="center">Hi, I'm Sanjith 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Unity XR Developer</b> · building immersive VR, AR and MR experiences<br/>
-  Exploring <b>Cloud & DevOps</b> through hands-on personal projects
-</p>
+<h1>Hi, I'm Sanjith 👋</h1>
 
-<p align="center">
-  <a href="https://sanjith-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-sanjith--portfolio.pages.dev-1c3a73?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/sanjith27/"><img src="https://img.shields.io/badge/LinkedIn-sanjith27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:p.sanjith2001@gmail.com"><img src="https://img.shields.io/badge/Email-p.sanjith2001%40gmail.com-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<b>Unity XR Developer</b> &nbsp;·&nbsp; VR · AR · MR for Meta Quest, PCVR and mobile
+<br/>
+Exploring <b>Cloud & DevOps</b> through hands-on personal projects
+
+<br/><br/>
+
+<a href="https://sanjith-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-1c3a73?style=for-the-badge" alt="Portfolio" height="32"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanjith27/"><img src="https://img.shields.io/badge/LinkedIn-1c3a73?style=for-the-badge" alt="LinkedIn" height="32"/></a>&nbsp;&nbsp;
+<a href="mailto:p.sanjith2001@gmail.com"><img src="https://img.shields.io/badge/Email-1c3a73?style=for-the-badge" alt="Email" height="32"/></a>
+
+</div>
 
 ---
 
